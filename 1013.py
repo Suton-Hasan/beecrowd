@@ -1,4 +1,2 @@
-A, B, C=list(map(int,input().split()))
-if A<B || A<C:
-    elif B<C
-    
+x,y,z=list(map(int,input().split()))
+print("{} eh o maior".format(max(x,y,z)))
